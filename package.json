@@ -5,6 +5,7 @@
   "repository": "git@github.com:tm-hirai/typescript-study.git",
   "license": "MIT",
   "devDependencies": {
+    "ts-node": "^8.10.2",
     "typescript": "^3.9.6"
   }
 }
